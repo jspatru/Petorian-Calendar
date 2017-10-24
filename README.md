@@ -1,1 +1,3 @@
 # Petorian-Calendar
+
+The Petorian Calendar divides one sidereal year into 73 equal units of time called epochs, which are then divided in five equal parts called parts. Since the Gregorian Calendar operates the tropical year and the Petorian Calendar operates on the sidereal year, as of the time of my writing this, it just turned 2017 CE/12017HE a few parts ago. The Petorian Calendar officially acknowledges both the Holocene and Common Era tropical frameworks for writing what year we are living in, but you are of course allowed to decide what year it is as long as each individual year lasts precisely 31,558,149.5 seconds. 
