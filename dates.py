@@ -35,3 +35,5 @@ while e <= 72:
 #29 days, 4 hours, 54 minutes, 9.324000000022352 seconds; 2523249.324 seconds
 #510 leap days since January 1, 45 BCE
 #http://keisan.casio.com/exec/system/1295254517 <-- this link helped a lot
+#365 days, 06 hours, 09 minutes, 09.5 seconds.
+#65072904269-65070435024=2469245 (28.57922454 days)
